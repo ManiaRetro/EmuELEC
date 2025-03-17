@@ -341,6 +341,7 @@ snes9x2005_plus \
 snes9x2010 \
 spring \
 stella \
+stella2023 \
 tgbdual \
 tic-80 \
 tyrquake \
@@ -442,7 +443,7 @@ virtualjaguar"
 "The 3DO Company - 3DO.lpl"
 
   RA_PLAYLIST_CORES=""\
-"/tmp/cores/stella_libretro.so;"\
+"/tmp/cores/stella2023_libretro.so;"\
 "/tmp/cores/atari800_libretro.so;"\
 "/tmp/cores/prosystem_libretro.so;"\
 "/tmp/cores/virtualjaguar_libretro.so;"\
